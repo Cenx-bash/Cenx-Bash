@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Karl Ancel Dimabayao  
+# 👋 Hi there! I'm Karl Ancel 
 
 I'm a passionate **student and developer** exploring the world of **web and mobile development**. I love learning new technologies and building innovative projects. 🚀  
 
