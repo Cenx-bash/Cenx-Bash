@@ -11,7 +11,6 @@ I'm a passionate **student and developer** exploring the world of **web and mobi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenx-bash&layout=compact&theme=dracula" height="150" />
 </div>
 
-
 ---
 
 ## 💻 Tech Stack  
@@ -67,29 +66,13 @@ I'm a passionate **student and developer** exploring the world of **web and mobi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 </div>
 
-
 ---
 
 ## 📱 Connect with Me  
 
 <div align="left">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
   <a href="mailto:zenn.studio.01@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
@@ -97,11 +80,10 @@ I'm a passionate **student and developer** exploring the world of **web and mobi
 
 ## 🐍 Snake Animation  
 
-![Snake animation](https://github.com/karlanceldimabayao/karlanceldimabayao/blob/output/github-contribution-grid-snake.svg)  
+[Snake animation](https://github.com/Cenx-bash/Cenx-bash/blob/output/snake.svg)
+
 
 ---
 
 ## 🔥 Fun Fact  
 💡 I'm always curious about new technologies and love experimenting with different programming languages!  
-
-
