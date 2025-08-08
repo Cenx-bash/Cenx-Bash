@@ -1,5 +1,12 @@
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=500&lines=Hi+there!+I'm+Karl+Ancel+👋;Student+%26+Developer;Web+%26+Mobile+Development+Enthusiast;Always+Learning+🚀" alt="Typing Animation" />
+<div align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80" alt="Wave Hand Animation" />
+  <h1>Hi there! I'm <span style="color:#00F700;">Karl Ancel</span> 👋</h1>
+</div>
+
+<p align="center">
+  🚀 Student & Developer • Web & Mobile Development Enthusiast • Lifelong Learner  
+</p>
 
 ---
 
@@ -52,9 +59,17 @@
 
 ## 📱 Connect with Me  
 
-<a href="mailto:zenn.studio.01@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-</a>
+<p align="center">
+  <a href="mailto:zenn.studio.01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -66,5 +81,14 @@
 
 ---
 
-## 🔥 Fun Fact  
-💡 I'm always curious about new technologies and love experimenting with different programming languages!
+## 🔥 Fun Facts About Me  
+
+- 💡 I once built a project using **4 different programming languages** just to test myself.  
+- 🛠 I love **reverse-engineering apps** to learn how they work.  
+- 🌱 Currently learning **cloud technologies** and **AI integration**.  
+- 🎮 Gamer at heart — I enjoy **modding games** and creating custom tools for them.  
+- ☕ Can’t code without coffee... and sometimes tea.  
+
+---
+
+⭐ **Pro Tip**: Always stay curious — tech moves fast, but your passion can move faster. 🚀
