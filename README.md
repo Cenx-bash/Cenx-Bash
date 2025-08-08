@@ -63,6 +63,7 @@ I'm a passionate **student and developer** exploring the world of **web and mobi
 
 ![Snake animation](https://github.com/Cenx-bash/Cenx-bash/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 🔥 Fun Fact  
