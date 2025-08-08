@@ -1,6 +1,5 @@
-# 👋 Hi there! I'm Karl Ancel  
-
-I'm a passionate **student and developer** exploring the world of **web and mobile development**. I love learning new technologies and building innovative projects. 🚀  
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=500&lines=Hi+there!+I'm+Karl+Ancel+👋;Student+%26+Developer;Web+%26+Mobile+Development+Enthusiast;Always+Learning+🚀" alt="Typing Animation" />
 
 ---
 
@@ -16,7 +15,7 @@ I'm a passionate **student and developer** exploring the world of **web and mobi
 ## 💻 Tech Stack  
 
 <div align="center">
-  
+
 ### **Programming Languages**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" /> 
@@ -59,10 +58,11 @@ I'm a passionate **student and developer** exploring the world of **web and mobi
 
 ---
 
-## 🐍 Snake Animation  
+## 🎯 Fun Animated Touch  
 
-![Snake animation](https://github.com/Cenx-bash/Cenx-bash/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+</div>
 
 ---
 
