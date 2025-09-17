@@ -12,16 +12,16 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Cenx-bash&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenx-bash&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
   <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cenx-bash&theme=tokyonight" height="160" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cenx-bash&theme=tokyonight" height="160" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cenx-bash&theme=tokyonight" height="200" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cenx-bash&theme=tokyonight" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cenx-bash&theme=tokyonight" height="150" alt="Most Used Languages"/>
 </div>
 
----
 
 ## 💻 Tech Stack  
 
