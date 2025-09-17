@@ -12,8 +12,13 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cenx-bash&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenx-bash&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Cenx-bash&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cenx-bash&theme=tokyonight" height="160" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cenx-bash&theme=tokyonight" height="160" alt="Most Used Languages"/>
 </div>
 
 ---
