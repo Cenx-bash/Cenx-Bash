@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/karl-ancel-dimabayao-770179368/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://cenx-bash.github.io/Professional-Portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
