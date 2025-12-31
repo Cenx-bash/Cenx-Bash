@@ -1,5 +1,5 @@
 <!-- ================= ASCII LOGO ================= -->
-<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:16px; border-radius:8px;">
+<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:22px; border-radius:12px;">
 ███████╗███████╗███╗   ██╗
 ╚══███╔╝██╔════╝████╗  ██║
   ███╔╝ █████╗  ██╔██╗ ██║
@@ -9,88 +9,105 @@
 </pre>
 
 <h2 align="center">Full-Stack Developer • Systems Architect</h2>
-<p align="center"><i>Designing scalable systems with structure, discipline, and long-term intent.</i></p>
+<p align="center"><i>Tokyo Night aesthetic · Systems-first engineering · Built for longevity</i></p>
 
-<!-- ================= BADGES ================= -->
+<!-- ================= STATUS BADGES ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-7aa2f7?style=for-the-badge&logo=github&logoColor=16161e" />
   <img src="https://img.shields.io/badge/THEME-TOKYO_NIGHT-9d7cd8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APPROACH-SYSTEMS_FIRST-7dcfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WORKFLOW-BUILD_|_BREAK_|_REBUILD-9ece6a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRINCIPLE-BUILD_|_BREAK_|_REFACTOR-9ece6a?style=for-the-badge" />
 </p>
 
-<!-- ================= SUMMARY ================= -->
+<!-- ================= INTRO ================= -->
 <p align="center">
-I am a systems-oriented full-stack developer focused on building maintainable architectures, scalable backend services, and clean, predictable interfaces. My work emphasizes clarity of intent, separation of concerns, and engineering decisions that hold up over time.
+Systems-oriented full-stack developer focused on designing scalable, maintainable software.
+I approach engineering by understanding problems deeply, defining clear system boundaries,
+and implementing solutions that remain stable as systems grow.
 </p>
 
 <p align="center">
-I treat software as an evolving system—designed, measured, refined, and documented with purpose.
+I value clarity over cleverness, predictable behavior over shortcuts,
+and architectures that evolve without collapsing under complexity.
 </p>
 
-<!-- ================= ACTIVITY GRAPH (WORKING) ================= -->
-<h3 align="center">Contribution Activity</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenx-bash&theme=tokyo-night&hide_border=true&bg_color=16161e&color=7aa2f7&line=9d7cd8&point=7dcfff" />
-</div>
+<!-- ================= CONTRIBUTION SNAKE (STABLE) ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<!-- ================= CORE STATS (WORKING) ================= -->
+<!-- ================= GITHUB METRICS (ONLY RELIABLE CHARTS) ================= -->
 <h3 align="center">GitHub Metrics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cenx-bash&show_icons=true&hide_border=true&theme=tokyonight&bg_color=16161e&title_color=7aa2f7&icon_color=9d7cd8&text_color=c0caf5" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenx-bash&theme=tokyonight&hide_border=true&background=16161e&stroke=7aa2f7&ring=9d7cd8&fire=ff9e64&currStreakLabel=7dcfff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cenx-bash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenx-bash&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-<!-- ================= LANGUAGE DISTRIBUTION (WORKING) ================= -->
+<!-- ================= LANGUAGE DISTRIBUTION (DETERMINISTIC – NEVER BREAKS) ================= -->
 <h3 align="center">Language Distribution</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenx-bash&layout=compact&hide_border=true&theme=tokyonight&bg_color=16161e&title_color=7aa2f7&text_color=c0caf5" height="165" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-25%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC++-20%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+</p>
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECHNOLOGY STACK ================= -->
 <h3 align="center">Technology Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,react,html,css,nodejs,express,mysql,mongodb,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,html,css,nodejs,express,mysql,mongodb,linux,docker,git&theme=dark" />
 </div>
 
 <!-- ================= ENGINEERING FOCUS ================= -->
 <h3 align="center">Engineering Focus</h3>
 <ul>
   <li>System design with explicit boundaries and responsibilities</li>
-  <li>Backend architecture emphasizing scalability and clarity</li>
-  <li>API design with predictable contracts and failure handling</li>
-  <li>Clean architecture and maintainable codebases</li>
-  <li>Linux-first development and automation-driven workflows</li>
+  <li>Scalable backend services and clearly defined API layers</li>
+  <li>Efficient data modeling, optimization, and data flow</li>
+  <li>Clean architecture, refactoring discipline, and readability</li>
+  <li>Linux-first development with automation-driven workflows</li>
 </ul>
 
-<!-- ================= TROPHIES (WORKING) ================= -->
-<h3 align="center">Achievements & Milestones</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cenx-bash&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</div>
+<!-- ================= DEVELOPMENT PHILOSOPHY ================= -->
+<h3 align="center">Development Philosophy</h3>
+<p>
+Software should communicate intent clearly.
+I design systems to be understandable first, extensible second,
+and optimized only when evidence demands it.
+</p>
+
+<!-- ================= ACHIEVEMENTS (FAILURE-PROOF) ================= -->
+<h3 align="center">Achievements & Highlights</h3>
+<ul>
+  <li>Consistent GitHub contribution activity since 2023</li>
+  <li>Built and maintained multiple full-stack and systems-oriented projects</li>
+  <li>Hands-on experience across frontend, backend, and low-level paradigms</li>
+  <li>Strong emphasis on maintainability, documentation, and scalability</li>
+</ul>
 
 <!-- ================= WORKFLOW ================= -->
-<h3 align="center">Development Workflow</h3>
-<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:12px; border-radius:6px;">
-Analyze problem space
+<h3 align="center">Engineering Workflow</h3>
+<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:16px; border-radius:10px;">
+Analyze the problem space
 Define system boundaries
-Design interfaces
-Implement core logic
-Test failure paths
-Refactor for clarity
-Document decisions
+Design interfaces and contracts
+Implement core functionality
+Test edge cases and failure paths
+Refactor for clarity and simplicity
+Document decisions and trade-offs
 </pre>
 
 <!-- ================= CURRENT FOCUS ================= -->
 <h3 align="center">Current Focus</h3>
 <ul>
-  <li>High-performance backend services</li>
-  <li>Cloud-native system patterns</li>
-  <li>Automation and developer tooling</li>
-  <li>Long-term maintainability and documentation</li>
+  <li>Backend scalability and performance optimization</li>
+  <li>Cloud-native architecture patterns</li>
+  <li>Developer tooling and workflow automation</li>
+  <li>Long-term system maintainability and documentation</li>
 </ul>
 
-<!-- ================= LINKS ================= -->
+<!-- ================= CONTACT ================= -->
+<h3 align="center">Connect</h3>
 <p align="center">
   <a href="https://cenx-bash.github.io/Professional-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-16161e?style=for-the-badge&logo=vercel&logoColor=bb9af7" /></a>
   <a href="mailto:zenn.studio.01@gmail.com"><img src="https://img.shields.io/badge/Email-16161e?style=for-the-badge&logo=gmail&logoColor=f7768e" /></a>
@@ -102,5 +119,5 @@ Document decisions
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Cenx-bash&color=9d7cd8&style=flat-square&label=TOKYO+VISITORS" />
   <br />
-  <sub>Tokyo Night Theme • Systems Thinking • Continuous Evolution</sub>
+  <sub>Tokyo Night • Systems Thinking • Continuous Evolution</sub>
 </div>
