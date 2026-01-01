@@ -1,5 +1,5 @@
 <!-- ================= ASCII LOGO ================= -->
-<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:22px; border-radius:12px;">
+<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:24px; border-radius:14px; line-height:1.2;">
 ███████╗███████╗███╗   ██╗
 ╚══███╔╝██╔════╝████╗  ██║
   ███╔╝ █████╗  ██╔██╗ ██║
@@ -9,7 +9,7 @@
 </pre>
 
 <h2 align="center">Full-Stack Developer • Systems Architect</h2>
-<p align="center"><i>Tokyo Night aesthetic · Systems-first engineering · Built for longevity</i></p>
+<p align="center"><i>Tokyo Night aesthetic · Systems-first engineering · Built to scale, built to last</i></p>
 
 <!-- ================= STATUS BADGES ================= -->
 <p align="center">
@@ -21,29 +21,30 @@
 
 <!-- ================= INTRO ================= -->
 <p align="center">
-Systems-oriented full-stack developer focused on designing scalable, maintainable software.
-I approach engineering by understanding problems deeply, defining clear system boundaries,
-and implementing solutions that remain stable as systems grow.
+Systems-oriented full-stack developer specializing in scalable, maintainable software systems.
+I engineer solutions by defining clear boundaries, predictable behaviors,
+and architectures that survive growth rather than collapse under it.
 </p>
 
 <p align="center">
-I value clarity over cleverness, predictable behavior over shortcuts,
-and architectures that evolve without collapsing under complexity.
+Clarity over cleverness.  
+Stability over shortcuts.  
+Systems that evolve without losing integrity.
 </p>
 
 <!-- ================= CONTRIBUTION SNAKE (STABLE) ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<!-- ================= GITHUB METRICS (ONLY RELIABLE CHARTS) ================= -->
+<!-- ================= GITHUB METRICS ================= -->
 <h3 align="center">GitHub Metrics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cenx-bash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenx-bash&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-<!-- ================= LANGUAGE DISTRIBUTION (DETERMINISTIC – NEVER BREAKS) ================= -->
+<!-- ================= LANGUAGE DISTRIBUTION ================= -->
 <h3 align="center">Language Distribution</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,33 +62,33 @@ and architectures that evolve without collapsing under complexity.
 <!-- ================= ENGINEERING FOCUS ================= -->
 <h3 align="center">Engineering Focus</h3>
 <ul>
-  <li>System design with explicit boundaries and responsibilities</li>
-  <li>Scalable backend services and clearly defined API layers</li>
-  <li>Efficient data modeling, optimization, and data flow</li>
-  <li>Clean architecture, refactoring discipline, and readability</li>
+  <li>System design with explicit responsibilities and well-defined contracts</li>
+  <li>Scalable backend services and resilient API layers</li>
+  <li>Efficient data modeling, performance tuning, and data flow optimization</li>
+  <li>Clean architecture, disciplined refactoring, and readable codebases</li>
   <li>Linux-first development with automation-driven workflows</li>
 </ul>
 
 <!-- ================= DEVELOPMENT PHILOSOPHY ================= -->
 <h3 align="center">Development Philosophy</h3>
 <p>
-Software should communicate intent clearly.
+Software should communicate intent before implementation details.
 I design systems to be understandable first, extensible second,
-and optimized only when evidence demands it.
+and optimized only when evidence—not ego—demands it.
 </p>
 
-<!-- ================= ACHIEVEMENTS (FAILURE-PROOF) ================= -->
+<!-- ================= ACHIEVEMENTS ================= -->
 <h3 align="center">Achievements & Highlights</h3>
 <ul>
   <li>Consistent GitHub contribution activity since 2023</li>
-  <li>Built and maintained multiple full-stack and systems-oriented projects</li>
-  <li>Hands-on experience across frontend, backend, and low-level paradigms</li>
-  <li>Strong emphasis on maintainability, documentation, and scalability</li>
+  <li>Designed and maintained multiple full-stack and systems-oriented projects</li>
+  <li>Experience spanning frontend, backend, and low-level paradigms</li>
+  <li>Strong emphasis on documentation, maintainability, and scalability</li>
 </ul>
 
 <!-- ================= WORKFLOW ================= -->
 <h3 align="center">Engineering Workflow</h3>
-<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:16px; border-radius:10px;">
+<pre align="center" style="color:#7aa2f7; background-color:#16161e; padding:18px; border-radius:12px; line-height:1.5;">
 Analyze the problem space
 Define system boundaries
 Design interfaces and contracts
@@ -101,9 +102,9 @@ Document decisions and trade-offs
 <h3 align="center">Current Focus</h3>
 <ul>
   <li>Backend scalability and performance optimization</li>
-  <li>Cloud-native architecture patterns</li>
+  <li>Cloud-native and distributed architecture patterns</li>
   <li>Developer tooling and workflow automation</li>
-  <li>Long-term system maintainability and documentation</li>
+  <li>Long-term system maintainability and technical documentation</li>
 </ul>
 
 <!-- ================= CONTACT ================= -->
