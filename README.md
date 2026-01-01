@@ -40,9 +40,12 @@ Systems that evolve without losing integrity.
 <!-- ================= GITHUB METRICS ================= -->
 <h3 align="center">GitHub Metrics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cenx-bash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenx-bash&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Cenx-bash&theme=tokyonight&hide_border=true&v=1"
+    height="165"
+  />
 </div>
+
 
 <!-- ================= LANGUAGE DISTRIBUTION ================= -->
 <h3 align="center">Language Distribution</h3>
