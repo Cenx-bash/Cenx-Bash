@@ -68,7 +68,7 @@ const zenn = {
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
+<img src="./assets/stats.svg" width="100%" alt="GitHub metrics" />
 
 <img src="https://streak-stats.demolab.com?user=Cenx-bash&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats" />
 
